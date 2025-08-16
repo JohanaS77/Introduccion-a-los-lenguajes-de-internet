@@ -50,23 +50,14 @@ Para iniciar el desarrollo del software, el primer paso fue elaborar un formular
 
 ---
 
-## <img width="305" height="46" alt="Captura de pantalla 2025-08-16 174333" src="https://github.com/user-attachments/assets/56d0b1b9-15a9-47f9-a1aa-7a8a4984f2ed" id="desarrolladoras" />
+## <img width="305" height="42" alt="Captura de pantalla 2025-08-16 175405" src="https://github.com/user-attachments/assets/f68fc473-9149-46e9-abe3-b5345f3d770b" />
 
-Este proyecto fue desarrollado por Dafne Julieth Cortés y Johana Jazmín Saavedra, estudiantes de cuarto semestre en Técnica profesional en programación de aplicaciones de software de la Fundación Universitaria Compensar. Con una participación activa en la creación y desarrollo del proyecto.
+
+Este proyecto fue desarrollado por Johana Jazmín Saavedra, estudiante de cuarto semestre en Técnica profesional en programación de aplicaciones de software de la Fundación Universitaria Compensar. Con una participación activa en la creación y desarrollo del proyecto.
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding-right: 60px;">
-        <img src="https://github.com/user-attachments/assets/9595bb09-c5cc-4ce8-8a1a-e6bfc3ffd378" width="120" style="border: none;"><br/>
-        <strong>Dafne Julieth Cortés</strong>
-      </td>
-      <td align="center" style="padding-left: 60px;">
-        <img src="https://github.com/user-attachments/assets/96a0990c-a533-42c2-9fa2-7224c4eca021" width="120" style="border: none;"><br/>
-        <strong>Johana Jazmín Saavedra</strong>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/user-attachments/assets/96a0990c-a533-42c2-9fa2-7224c4eca021" width="120" style="border: none;"><br/>
+  <strong>Johana Jazmín Saavedra</strong>
 </div>
 
 [🔼 Volver al índice](#índice)
