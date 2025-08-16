@@ -50,8 +50,7 @@ Para iniciar el desarrollo del software, el primer paso fue elaborar un formular
 
 ---
 
-## <img width="305" height="42" alt="Captura de pantalla 2025-08-16 175405" src="https://github.com/user-attachments/assets/f68fc473-9149-46e9-abe3-b5345f3d770b" />
-
+## <img width="305" height="42" alt="Captura de pantalla 2025-08-16 175405" src="https://github.com/user-attachments/assets/f68fc473-9149-46e9-abe3-b5345f3d770b" id="desarrolladora" />
 
 Este proyecto fue desarrollado por Johana Jazmín Saavedra, estudiante de cuarto semestre en Técnica profesional en programación de aplicaciones de software de la Fundación Universitaria Compensar. Con una participación activa en la creación y desarrollo del proyecto.
 
