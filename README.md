@@ -18,7 +18,7 @@
 - [🎮 Construcción del Formulario](#construcción-del-formulario)
 - [💡 Recomendaciones](#recomendaciones)  
 - [📝 Conclusiones](#conclusiones)
-- [👩‍💻 Desarrolladores](#desarrolladores)
+- [👩‍💻 Desarrolladoras](#desarrolladoras)
 
 ---
 
