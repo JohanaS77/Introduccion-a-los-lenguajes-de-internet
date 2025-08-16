@@ -50,7 +50,7 @@ Para iniciar el desarrollo del software, el primer paso fue elaborar un formular
 
 ---
 
-## <img width="305" height="46" alt="Captura de pantalla 2025-08-16 174333" src="https://github.com/user-attachments/assets/56d0b1b9-15a9-47f9-a1aa-7a8a4984f2ed" id="desarrolladores" />
+## <img width="305" height="46" alt="Captura de pantalla 2025-08-16 174333" src="https://github.com/user-attachments/assets/56d0b1b9-15a9-47f9-a1aa-7a8a4984f2ed" id="desarrolladoras" />
 
 Este proyecto fue desarrollado por Dafne Julieth Cortés y Johana Jazmín Saavedra, estudiantes de cuarto semestre en Técnica profesional en programación de aplicaciones de software de la Fundación Universitaria Compensar. Con una participación activa en la creación y desarrollo del proyecto.
 
