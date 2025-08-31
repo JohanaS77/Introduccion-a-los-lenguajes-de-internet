@@ -4,7 +4,7 @@
   <table border="0">
     <tr>
       <td valign="little">
-        <h2>Proyecto para la asignatura de<br>Introducción a los lenguajes de internet</h2>
+        <h2>Proyectos para la asignatura de<br>Introducción a los lenguajes de internet</h2>
       </td>
       <td>
         <img width="361" height="139" alt="Captura de pantalla 2025-08-07 172526" src="https://github.com/user-attachments/assets/862b067f-2866-4c66-a21b-0d917e53b779" />
