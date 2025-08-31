@@ -15,14 +15,14 @@
 
 ## <img width="106" height="56" alt="Captura de pantalla 2025-08-14 124054" src="https://github.com/user-attachments/assets/ac198e82-e5dd-4da1-849e-de7c94ee87e6" id="índice" />
 
-- [🎮 Construcción del Formulario](#construcción-del-formulario)
+- [🎮 Formulario](#formulario)
 - [💡 Recomendaciones](#recomendaciones)  
 - [📝 Conclusiones](#conclusiones)
 - [👩‍💻 Desarrolladora](#desarrolladora)
 
 ---
 
-## <img width="571" height="149" alt="Captura de pantalla 2025-08-14 124938" src="https://github.com/user-attachments/assets/6e3d7ae0-e183-4cce-9928-12cf0e0f6aaf" id="construcción-del-formulario" />
+## <img width="219" height="59" alt="Captura de pantalla 2025-08-14 " src="https://github.com/user-attachments/assets/616f96d5-34a7-4742-97a6-5a456008b3ac" />
 
 Para iniciar el desarrollo del software, el primer paso fue elaborar un formulario
 
