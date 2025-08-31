@@ -13,9 +13,14 @@
   </table>
 </div>
 
+Este repositorio tiene como propósito centralizar todos los trabajos desarrollados durante la asignatura Introducción a los Lenguajes de Internet.
+
+Cada proyecto se encuentra en un repositorio independiente para facilitar su organización y desarrollo. A continuación, se presentan los enlaces que dirigen a cada uno de ellos:
+
 ## <img width="106" height="56" alt="Captura de pantalla 2025-08-14 124054" src="https://github.com/user-attachments/assets/ac198e82-e5dd-4da1-849e-de7c94ee87e6" id="índice" />
 
 - [🎮 Formulario](#formulario)
+- Tabla periódica
 - [💡 Recomendaciones](#recomendaciones)  
 - [📝 Conclusiones](#conclusiones)
 - [👩‍💻 Desarrolladora](#desarrolladora)
@@ -33,6 +38,17 @@ Para iniciar el desarrollo del software, el primer paso fue elaborar un formular
 [🔼 Volver al índice](#índice)
 
 ---
+
+## <img width="317" height="67" alt="Captura de pantalla 2025-08-31 173315" src="https://github.com/user-attachments/assets/5154c5e9-99e8-4787-b479-18b93d95525b" />
+
+Este proyecto fue desarrollado con el objetivo principal es representar la tabla periódica de los elementos químicos utilizando herramientas básicas de desarrollo web (HTML, CSS y JavaScript).
+
+Con este trabajo busco poner en práctica los conceptos aprendidos en clase sobre estructuración de información, diseño con estilos y manejo de interactividad en páginas web.
+
+👉 Acceder al repositorio del proyecto Tabla Periódica: https://github.com/JohanaS77/Tabla-Periodica
+
+
+
 
 ## <img width="300" height="59" alt="Captura de pantalla 2025-08-16 172942" src="https://github.com/user-attachments/assets/e1fa03d2-6885-4234-9a66-fc9d22bb1de9" id="recomendaciones" />
 
