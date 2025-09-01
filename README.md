@@ -52,12 +52,16 @@ Con este trabajo busco poner en práctica los conceptos aprendidos en clase sobr
 
 ---
 
+<a name="conclusiones"></a>
+
 ## <img width="245" height="43" alt="Captura de pantalla 2025-08-16 173609" src="https://github.com/user-attachments/assets/2bd90514-c2d3-4c90-8810-ef1a58b8d230" />
 <!-- Aquí puedes agregar el contenido de tus conclusiones -->
 
 [🔼 Volver al índice](#índice)
 
 ---
+
+<a name="desarrolladora"></a>
 
 ## <img width="310" height="42" alt="Captura de pantalla 2025-08-16 175405" src="https://github.com/user-attachments/assets/6809aacb-04b4-4277-bc29-fc138415dedd" />
 Este proyecto fue desarrollado por Johana Jazmín Saavedra, estudiante de cuarto semestre en Técnica profesional en programación de aplicaciones de software de la Fundación Universitaria Compensar. Con una participación activa en la creación y desarrollo del proyecto.
