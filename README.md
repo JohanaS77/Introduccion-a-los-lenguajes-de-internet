@@ -47,6 +47,7 @@ Con este trabajo busco poner en práctica los conceptos aprendidos en clase sobr
 
 ## <img width="300" height="59" alt="Captura de pantalla 2025-08-16 172942" src="https://github.com/user-attachments/assets/e1fa03d2-6885-4234-9a66-fc9d22bb1de9" id="recomendaciones" />
 <!-- Aquí puedes agregar el contenido de tus recomendaciones -->
+Para acceder a cada proyecto desarrollado durante el semestre, es importante dar clic en el enlace correspondiente. Cada enlace redirige directamente al repositorio individual del proyecto, donde se podrá consultar su desarrollo completo y las actualizaciones realizadas en cada etapa.
 
 [🔼 Volver al índice](#índice)
 
