@@ -17,7 +17,7 @@ Cada proyecto se encuentra en un repositorio independiente para facilitar su org
 
 ---
 
-## <img width="106" height="56" alt="Captura de pantalla 2025-08-14 124054" src="https://github.com/user-attachments/assets/ac198e82-e5dd-4da1-849e-de7c94ee87e6" />
+## <img width="106" height="56" alt="Captura de pantalla 2025-08-14 124054" src="https://github.com/user-attachments/assets/ac198e82-e5dd-4da1-849e-de7c94ee87e6" id="índice" />
 - [Formulario](#formulario)
 - [Tabla periódica](#tabla-periódica)
 - [Recomendaciones](#recomendaciones)  
@@ -26,7 +26,7 @@ Cada proyecto se encuentra en un repositorio independiente para facilitar su org
 
 ---
 
-## <img width="219" height="69" alt="Captura de pantalla 2025-08-14 " src="https://github.com/user-attachments/assets/7190b136-092b-420b-a309-db70cbd04f7e" />
+## <img width="219" height="69" alt="Captura de pantalla 2025-08-14 " src="https://github.com/user-attachments/assets/7190b136-092b-420b-a309-db70cbd04f7e" id="formulario" />
 Este proyecto corresponde al desarrollo de un formulario para un gimnasio, en el cual se trabajará de manera progresiva desde su versión inicial hasta su versión final. Aquí se podrá observar cómo el formulario evoluciona en diseño y funcionalidad a medida que se aplican los conceptos aprendidos en clase.
 
 👉 Ir al repositorio del Formulario https://github.com/JohanaS77/Formulario-Gym
@@ -35,7 +35,7 @@ Este proyecto corresponde al desarrollo de un formulario para un gimnasio, en el
 
 ---
 
-## <img width="317" height="67" alt="Captura de pantalla 2025-08-31 173315" src="https://github.com/user-attachments/assets/5154c5e9-99e8-4787-b479-18b93d95525b" />
+## <img width="317" height="67" alt="Captura de pantalla 2025-08-31 173315" src="https://github.com/user-attachments/assets/5154c5e9-99e8-4787-b479-18b93d95525b" id="tabla-periódica" />
 Este proyecto fue desarrollado con el objetivo principal es representar la tabla periódica de los elementos químicos utilizando herramientas básicas de desarrollo web (HTML, CSS y JavaScript).
 Con este trabajo busco poner en práctica los conceptos aprendidos en clase sobre estructuración de información, diseño con estilos y manejo de interactividad en páginas web.
 
@@ -45,7 +45,7 @@ Con este trabajo busco poner en práctica los conceptos aprendidos en clase sobr
 
 ---
 
-## <img width="300" height="59" alt="Captura de pantalla 2025-08-16 172942" src="https://github.com/user-attachments/assets/e1fa03d2-6885-4234-9a66-fc9d22bb1de9" />
+## <img width="300" height="59" alt="Captura de pantalla 2025-08-16 172942" src="https://github.com/user-attachments/assets/e1fa03d2-6885-4234-9a66-fc9d22bb1de9" id="recomendaciones" />
 <!-- Aquí puedes agregar el contenido de tus recomendaciones -->
 
 [🔼 Volver al índice](#índice)
