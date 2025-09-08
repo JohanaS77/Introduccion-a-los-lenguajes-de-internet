@@ -77,11 +77,7 @@ Para acceder a cada proyecto desarrollado durante el semestre, es importante dar
 <a id="conclusiones"></a>
 <img width="245" height="43" alt="Captura de pantalla 2025-08-16 173609" src="https://github.com/user-attachments/assets/2bd90514-c2d3-4c90-8810-ef1a58b8d230" />
 
-El desarrollo de estos proyectos durante la asignatura <strong>Introducción a los Lenguajes de Internet</strong> ha permitido aplicar de manera progresiva y sistemática los conocimientos fundamentales del desarrollo web front-end.
 
-A través de la construcción del <strong>formulario del gimnasio</strong>, la <strong>tabla periódica interactiva</strong> y el <strong>portal de noticias</strong>, se logró consolidar competencias esenciales en <strong>HTML semántico, diseño responsivo con CSS y programación interactiva con JavaScript</strong>.
-
-Cada proyecto representó un desafío incremental que fortaleció las habilidades técnicas y la capacidad de resolver problemas complejos mediante la integración de múltiples tecnologías web. La experiencia obtenida constituye una base sólida para el desarrollo de aplicaciones web más avanzadas en el futuro.
 
 [🔼 Volver al índice](#índice)
 
