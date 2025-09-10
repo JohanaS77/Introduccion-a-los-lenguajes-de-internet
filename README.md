@@ -1,4 +1,4 @@
-#  <img width="1366" height="94" alt="Titulo" src="https://github.com/user-attachments/assets/a5f9fdf7-7944-4e8d-9d94-c7b1df6267f1" />
+#  <img width="1566" height="124" alt="Titulo" src="readme-img/titulo.png" />
 <div align="center">
   <table border="0">
     <tr>
@@ -6,7 +6,7 @@
         <h2>Proyectos para la asignatura de<br>Introducción a los lenguajes de internet</h2>
       </td>
       <td>
-        <img width="361" height="139" alt="Captura de pantalla 2025-08-07 172526" src="https://github.com/user-attachments/assets/862b067f-2866-4c66-a21b-0d917e53b779" />
+        <img width="361" height="139" alt="Lenguajes" src="readme-img/lenguajes.png" />
       </td>
     </tr>
   </table>
@@ -18,7 +18,7 @@ Cada proyecto se encuentra en un repositorio independiente para facilitar su org
 ---
 
 <a id="índice"></a>
-<img width="106" height="56" alt="Captura de pantalla 2025-08-14 124054" src="https://github.com/user-attachments/assets/ac198e82-e5dd-4da1-849e-de7c94ee87e6" />
+<img width="106" height="56" alt="Indice" src="readme-img/indice.png" />
 
 - [Formulario](#formulario)
 - [Tabla periódica](#tabla-periódica)
@@ -30,7 +30,7 @@ Cada proyecto se encuentra en un repositorio independiente para facilitar su org
 ---
 
 <a id="formulario"></a>
-<img width="219" height="69" alt="Captura de pantalla 2025-08-14 " src="https://github.com/user-attachments/assets/7190b136-092b-420b-a309-db70cbd04f7e" />
+<img width="219" height="69" alt="Formulario" src="readme-img/formulario.png" />
 
 Este proyecto corresponde al desarrollo de un formulario para un gimnasio, en el cual se trabajará de manera progresiva desde su versión inicial hasta su versión final. Aquí se podrá observar cómo el formulario evoluciona en diseño y funcionalidad a medida que se aplican los conceptos aprendidos en clase.
 
@@ -41,7 +41,7 @@ Este proyecto corresponde al desarrollo de un formulario para un gimnasio, en el
 ---
 
 <a id="tabla-periódica"></a>
-<img width="317" height="67" alt="Captura de pantalla 2025-08-31 173315" src="https://github.com/user-attachments/assets/5154c5e9-99e8-4787-b479-18b93d95525b" />
+<img width="317" height="67" alt="Tabla periodica" src="readme-img/tabla-periodica.png" />
 
 Este proyecto fue desarrollado con el objetivo principal es representar la tabla periódica de los elementos químicos utilizando herramientas básicas de desarrollo web (HTML, CSS y JavaScript).
 Con este trabajo busco poner en práctica los conceptos aprendidos en clase sobre estructuración de información, diseño con estilos y manejo de interactividad en páginas web.
@@ -53,7 +53,7 @@ Con este trabajo busco poner en práctica los conceptos aprendidos en clase sobr
 ---
 
 <a id="portal-de-noticias"></a>
-<img width="343" height="45" alt="Captura de pantalla 2025-09-07 204432" src="https://github.com/user-attachments/assets/7bc4547d-a4f5-4a71-8da6-c06f532cda30" />
+<img width="343" height="45" alt="Portal noticias" src="readme-img/portal.png" />
 
 Este proyecto se desarrolló como parte de la asignatura <strong>Introducción a los Lenguajes de Internet</strong>, teniendo como propósito aplicar de manera integrada los conceptos aprendidos durante el curso en <strong>HTML, CSS y JavaScript</strong>.  
 El trabajo consiste en la construcción de un <strong>portal de noticias</strong> que combina una estructura semántica adecuada, el diseño responsivo de interfaces y la incorporación de interactividad mediante modales.  
@@ -66,7 +66,7 @@ A través de este proyecto se refuerzan competencias clave en <strong>diseño we
 ---
 
 <a id="recomendaciones"></a>
-<img width="300" height="59" alt="Captura de pantalla 2025-08-16 172942" src="https://github.com/user-attachments/assets/e1fa03d2-6885-4234-9a66-fc9d22bb1de9" />
+<img width="300" height="59" alt="Recomendaciones" src="readme-img/recomendaciones.png" />
 
 Para acceder a cada proyecto desarrollado durante el semestre, es importante dar clic en el enlace correspondiente. Cada enlace redirige directamente al repositorio individual del proyecto, donde se podrá consultar su desarrollo completo y las actualizaciones realizadas en cada etapa.
 
@@ -75,7 +75,7 @@ Para acceder a cada proyecto desarrollado durante el semestre, es importante dar
 ---
 
 <a id="conclusiones"></a>
-<img width="245" height="43" alt="Captura de pantalla 2025-08-16 173609" src="https://github.com/user-attachments/assets/2bd90514-c2d3-4c90-8810-ef1a58b8d230" />
+<img width="245" height="43" alt="Conclusiones" src="readme-img/conclusiones.png" />
 
 
 
@@ -84,12 +84,12 @@ Para acceder a cada proyecto desarrollado durante el semestre, es importante dar
 ---
 
 <a id="desarrolladora"></a>
-<img width="310" height="42" alt="Captura de pantalla 2025-08-16 175405" src="https://github.com/user-attachments/assets/6809aacb-04b4-4277-bc29-fc138415dedd" />
+<img width="310" height="42" alt="Desarrolladora" src="readme-img/desarrolladora.png" />
 
 Este proyecto fue desarrollado por <strong>Johana Jazmín Saavedra</strong>, estudiante de cuarto semestre en <strong>Técnica profesional en programación de aplicaciones de software</strong> de la <strong>Fundación Universitaria Compensar</strong>. Con una participación activa en la creación y desarrollo del proyecto.
 
 <div align="center">
-  <img width="124" height="336" alt="Joh sin fondo" src="https://github.com/user-attachments/assets/6c7a7f5a-749b-4912-8fbc-9fec2bba3463" />
+  <img width="124" height="336" alt="Joh sin fondo" src="readme-img/johana.png" />
   <br>
   <strong>Johana Jazmín Saavedra</strong>
 </div>
