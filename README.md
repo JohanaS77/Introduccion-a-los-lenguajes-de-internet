@@ -67,7 +67,7 @@ A través de este proyecto se refuerzan competencias clave en <strong>diseño we
 ---
 
 <a id="ventana-modal"></a>
-<img width="343" height="45" alt="Ventana Modal" src="readme-img/ventana.png" />
+<img width="293" height="45" alt="Ventana Modal" src="readme-img/ventana.png" />
 
 Este proyecto corresponde al desarrollo de una ventana modal interactiva utilizando HTML, CSS y JavaScript. A lo largo de su construcción se aplican conceptos fundamentales de estructura, estilos y lógica de programación, logrando un diseño temático relacionado con el mes del Amor y la Amistad.   
 
