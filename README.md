@@ -23,6 +23,7 @@ Cada proyecto se encuentra en un repositorio independiente para facilitar su org
 - [Formulario](#formulario)
 - [Tabla periódica](#tabla-periódica)
 - [Portal de noticias](#portal-de-noticias)
+- [Ventana modal](#ventana-modal)
 - [Recomendaciones](#recomendaciones)  
 - [Conclusiones](#conclusiones)
 - [Desarrolladora](#desarrolladora)
@@ -60,6 +61,17 @@ El trabajo consiste en la construcción de un <strong>portal de noticias</strong
 A través de este proyecto se refuerzan competencias clave en <strong>diseño web, usabilidad y programación front-end</strong>, consolidando los aprendizajes obtenidos en clase y evidenciando el progreso en el desarrollo de aplicaciones web.   
 
 👉 Ir al repositorio del Portal de Noticias: https://github.com/JohanaS77/portal-noticias/tree/main  
+
+[🔼 Volver al índice](#índice)  
+
+---
+
+<a id="ventana-modal"></a>
+<img width="343" height="45" alt="Ventana Modal" src="readme-img/ventana.png" />
+
+Este proyecto corresponde al desarrollo de una ventana modal interactiva utilizando HTML, CSS y JavaScript. A lo largo de su construcción se aplican conceptos fundamentales de estructura, estilos y lógica de programación, logrando un diseño temático relacionado con el mes del Amor y la Amistad.   
+
+👉 Ir al repositorio de la Ventana Modal: https://github.com/JohanaS77/Ventana-Modal
 
 [🔼 Volver al índice](#índice)  
 
